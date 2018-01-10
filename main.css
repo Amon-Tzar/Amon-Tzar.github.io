@@ -1,0 +1,14 @@
+body {
+	background-color:#000;
+	color:#fff;
+	font-family: 'Andika', sans-serif;
+}
+
+.logo {
+	width:500px;
+	height:400px;
+}
+
+a {
+	color:#ffa500;
+}
